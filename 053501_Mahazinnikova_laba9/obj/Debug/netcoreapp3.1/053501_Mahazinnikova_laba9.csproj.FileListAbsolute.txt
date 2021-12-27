@@ -1,0 +1,4 @@
+C:\Users\София\Desktop\053501_Mahazinnikova_laba9\obj\Debug\netcoreapp3.1\053501_Mahazinnikova_laba9.csprojAssemblyReference.cache
+C:\Users\София\Desktop\053501_Mahazinnikova_laba9\obj\Debug\netcoreapp3.1\053501_Mahazinnikova_laba9.AssemblyInfoInputs.cache
+C:\Users\София\Desktop\053501_Mahazinnikova_laba9\obj\Debug\netcoreapp3.1\053501_Mahazinnikova_laba9.AssemblyInfo.cs
+C:\Users\София\Desktop\053501_Mahazinnikova_laba9\obj\Debug\netcoreapp3.1\053501_Mahazinnikova_laba9.csproj.CoreCompileInputs.cache
