@@ -1,0 +1,13 @@
+C:\Users\София\Desktop\laba10\bin\Debug\netcoreapp3.1\laba10.exe
+C:\Users\София\Desktop\laba10\bin\Debug\netcoreapp3.1\laba10.deps.json
+C:\Users\София\Desktop\laba10\bin\Debug\netcoreapp3.1\laba10.runtimeconfig.json
+C:\Users\София\Desktop\laba10\bin\Debug\netcoreapp3.1\laba10.runtimeconfig.dev.json
+C:\Users\София\Desktop\laba10\bin\Debug\netcoreapp3.1\laba10.dll
+C:\Users\София\Desktop\laba10\bin\Debug\netcoreapp3.1\laba10.pdb
+C:\Users\София\Desktop\laba10\obj\Debug\netcoreapp3.1\laba10.csprojAssemblyReference.cache
+C:\Users\София\Desktop\laba10\obj\Debug\netcoreapp3.1\laba10.AssemblyInfoInputs.cache
+C:\Users\София\Desktop\laba10\obj\Debug\netcoreapp3.1\laba10.AssemblyInfo.cs
+C:\Users\София\Desktop\laba10\obj\Debug\netcoreapp3.1\laba10.csproj.CoreCompileInputs.cache
+C:\Users\София\Desktop\laba10\obj\Debug\netcoreapp3.1\laba10.dll
+C:\Users\София\Desktop\laba10\obj\Debug\netcoreapp3.1\laba10.pdb
+C:\Users\София\Desktop\laba10\obj\Debug\netcoreapp3.1\laba10.genruntimeconfig.cache
