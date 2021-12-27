@@ -1,0 +1,8 @@
+C:\Users\engen\Desktop\dumpster\isp\labs\HRdepartment.domain\obj\Debug\netstandard2.0\HRdepartment.domain.AssemblyInfoInputs.cache
+C:\Users\engen\Desktop\dumpster\isp\labs\HRdepartment.domain\obj\Debug\netstandard2.0\HRdepartment.domain.AssemblyInfo.cs
+C:\Users\engen\Desktop\dumpster\isp\labs\HRdepartment.domain\obj\Debug\netstandard2.0\HRdepartment.domain.csproj.CoreCompileInputs.cache
+C:\Users\engen\Desktop\dumpster\isp\labs\HRdepartment.domain\bin\Debug\netstandard2.0\HRdepartment.domain.deps.json
+C:\Users\engen\Desktop\dumpster\isp\labs\HRdepartment.domain\bin\Debug\netstandard2.0\HRdepartment.domain.dll
+C:\Users\engen\Desktop\dumpster\isp\labs\HRdepartment.domain\bin\Debug\netstandard2.0\HRdepartment.domain.pdb
+C:\Users\engen\Desktop\dumpster\isp\labs\HRdepartment.domain\obj\Debug\netstandard2.0\HRdepartment.domain.dll
+C:\Users\engen\Desktop\dumpster\isp\labs\HRdepartment.domain\obj\Debug\netstandard2.0\HRdepartment.domain.pdb
